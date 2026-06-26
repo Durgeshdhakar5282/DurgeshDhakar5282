@@ -7,23 +7,28 @@
 📚 Always learning new technologies and improving my coding skills
 
 ---
-
-
-
 # 🛠️ Tech Stack
-# 🛠️ Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,nodejs,androidstudio,git,github,vscode" />
-</p>
-<h3>🛠️ Tools & Platforms</h3>
 
+## 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,render,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
 </p>
+
+## 🚀 Frameworks & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,androidstudio" />
+</p>
+
+## 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare" />
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
+
 ---
 
 ## 📈 GitHub Stats
@@ -77,7 +82,7 @@
 
 <div align="center">
 
-## 🚀 "Dream Big. Code Smart. Never Stop Learning."
+## > 🚀 "Turning ideas into reality, one line of code at a time."
 
 </div>
 
