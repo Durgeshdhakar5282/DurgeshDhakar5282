@@ -2,19 +2,28 @@
 
 ## 🚀 About Me
 
-💻 Passionate Developer from India  
-🌱 Currently learning Android Development, Web Development & AI  
-🤖 Building AI-powered applications and chatbots  
+💻 Passionate Full Stack & Android Developer  
+🌐 Creating Modern Websites with HTML, CSS, JavaScript & Node.js  
 📚 Always learning new technologies and improving my coding skills
 
 ---
 
-## 🛠️ Languages & Tools
 
+
+# 🛠️ Tech Stack
+# 🛠️ Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,nodejs,androidstudio,git,github,vscode" />
 </p>
+<h3>🛠️ Tools & Platforms</h3>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,render,cloudflare" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p>
 ---
 
 ## 📈 GitHub Stats
@@ -38,25 +47,7 @@
 </p>
 
 ---
-
-## 🚀 Current Projects
-
-- 🤖 AI Chatbot
-- 📱 Android Apps
-- 🌐 Responsive Websites
-- 💻 C/C++ Programming Projects
-
----
-
-## 🎯 Goals
-
-- Learn Advanced Android Development
-- Build Real-World AI Applications
-- Contribute to Open Source
-- Become a Full Stack Developer
-
----
-# 📈 Visitor Count
+# 📈 Visitors Count
 
 <p align="center">
 
@@ -69,11 +60,15 @@
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Durgeshdhakar5282">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://github.com/Durgeshdhakar5282">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/durgeshdhakar5282">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:durgeshdhakar999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
