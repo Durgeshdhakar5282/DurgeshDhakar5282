@@ -56,17 +56,42 @@
 - Become a Full Stack Developer
 
 ---
+# 📈 Visitor Count
 
-## 📫 Connect With Me
+<p align="center">
 
-- GitHub: https://github.com/Durgeshdhakar5282
+<img src="https://komarev.com/ghpvc/?username=Durgeshdhakar5282&label=Visitors&color=0e75b6&style=for-the-badge"/>
 
----
-
-## 💡 Quote
-
-> "Code. Learn. Improve. Repeat."
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Durgeshdhakar5282">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+## 🚀 "Dream Big. Code Smart. Never Stop Learning."
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thank You for Visiting My Profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B68EE&height=120&section=footer"/>
+
+</div>
